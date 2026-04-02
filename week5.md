@@ -5,8 +5,7 @@ Tìm hiểu và làm chủ các phím tắt quan trọng để tăng tốc độ
 
 ## 2. Liên kết tham khảo
 - **Thảo luận về GitHub:** https://gemini.google.com/share/6bb67924827e
-- **Tài liệu phím tắt (Google Doc):** https://docs.google.com/document/d/1sGglNV2R39hn5iFiNX-0DsYcUG-eGT3ssbGSQpSj96c/edit?usp=sharing
-
+- **Tài liệu phím tắt (Google Doc):https://docs.google.com/document/d/11Y06IpZ0QM9e5cR47AefvZJ-C3Uuk-8bH0-L5oqfMRY/edit?usp=sharing
 ## 3. Danh sách 10 phím tắt hữu ích (Bộ phím tắt mới)
 ### Windows:
 1. **Win + D**: Ẩn/Hiện nhanh tất cả các cửa sổ.
